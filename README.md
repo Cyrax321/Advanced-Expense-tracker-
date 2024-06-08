@@ -1,7 +1,7 @@
 Advanced-Expense-tracker-
 Track your expenses in detail with Advanced Expense Tracker 
 
-Expense Tracker Description:
+How??
 
 The Expense Tracker is a Python program designed to help you manage your expenses effectively. With this tool, you can easily keep track of your spending, view detailed expense reports, and analyze your financial habits.
 
